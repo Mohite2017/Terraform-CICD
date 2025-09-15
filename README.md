@@ -1,2 +1,0 @@
-# teraform
-# Terraform-CICD
